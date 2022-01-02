@@ -6,7 +6,7 @@ Single function `R` package for applying the theme and style of Ultrachord to `g
 
 ```r
 # install.packages('devtools')
-devtools::install_github('dereckdemezquita/ddplot')
+devtools::install_github('ultrachord/ultraPlot')
 ```
 
 ## Using the functions
