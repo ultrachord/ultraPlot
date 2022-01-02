@@ -1,0 +1,14 @@
+Package: ultraPlot
+Title: Create ggplots in the Ultrachord style.
+Version: 0.1.0
+Authors@R: person(given = "Dereck", family = "de Mezquita", email = "dereck@demezquita.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9307-6762"))
+Description: Helps create ggplot2 charts in the official Ultrachord style.
+Depends: R (>= 3.3.0)
+License: GPL-2
+URL: https://github.com/ultrachord/ultraPlot
+BugReports: https://github.com/ultrachord/ultraPlot/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports:
+    ggplot2 (>= 3.3.5)
