@@ -1,4 +1,4 @@
-## ultraPlot  <img src="./.graphics/ultrachord-logo-hex-transparent-background.png" width="200" align="right">
+## ultraPlot  <img src="./.graphics/ultrachord-logo-hex-transparent-background.png" width="150" align="right">
 
 Single function `R` package for applying the theme and style of Ultrachord to `ggplot2` plots.
 
